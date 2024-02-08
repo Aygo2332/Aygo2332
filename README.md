@@ -3,17 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Wassup!+👋;This+is+Ayush+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=25">
   </a>
 </h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A passionate Software Developer from India.</h3>
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="190">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aygo2332&label=Profile%20views&color=0e75b6&style=flat" alt="aygo2332" /> </p>
 
-<p><i>I'm Ayush Goyal a 4th-year Information Technology Undergraduate from ( USICT ) Guru Gobind Singh Indraprastha University, Delhi. I'm a Tech Enthusiast and Fullstack Web Developer. I love to explore and learn about new domains.</i></p>
+<p><i>I'm Ayush Goyal a 4th-year Information Technology Undergraduate from ( USICT ) Guru Gobind Singh Indraprastha University, Delhi. I'm a Tech Enthusiast and Software Developer. I love to explore and learn about new domains.</i></p>
 
 - 🔭 I’m currently working on <code>E-Commerce App</code>
 - 👨‍💻 All of my projects are available at **<code>[here!]( https://github.com/Aygo2332?tab=repositories)</code>**
-- 💬 Ask me about **C++, DSA, Node.js**
-- 📫 How to reach me **ayushgoyal19122002@gmail.com**
-- 📄 Know about my experiences **<code>[here!](https://drive.google.com/file/d/1aX_JiftWZCHoOxkmdFQJ43GZwePkB5gm/view?usp=sharing)</code>**
+- 💬 Ask me about **DSA, MERN**
+- 📫 How to reach me **aygo2332@gmail.com**
+- 📄 Know about my experiences **<code>[here!](https://drive.google.com/file/d/1pIuw7Ber56KkBUaXev_azbpdQdABe1kt/view?usp=drive_link)</code>**
 <hr>
 
 <h3 align="center">Connect with me:</h3>
@@ -32,9 +32,7 @@
 
 📈 My Github Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Aygo2332&show_icons=true&theme=gotham" alt="Ayush" />
-<img width=315 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aygo2332&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  
-<br  />
+<img width=315 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aygo2332&title_color=abcdef&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=100&layout=compact&border_color=61dafb&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aygo2332&show_icons=true&theme=gotham" alt="Ayush" />
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
